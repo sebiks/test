@@ -1,2 +1,2 @@
-  name: Rebuild armbian and kernel for Amlogic s9xxx tv box
-  uses: ophub/amlogic-s9xxx-armbian@v0.1.0
+ - name: Rebuild armbian and kernel for Amlogic s9xxx tv box
+ - uses: ophub/amlogic-s9xxx-armbian@v0.1.0
